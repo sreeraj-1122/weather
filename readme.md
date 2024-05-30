@@ -13,8 +13,7 @@ backend run command:
 
 
 
-note: Please allow location.Otherwise current location not get.
-      Check database link backend ->config -> db.js
+
       
       Check SECRET KEY while login backend ->controllers ->userLogin.js
         
